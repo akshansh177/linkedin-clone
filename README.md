@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-## First Download all the tools used for install by this
+## First Download all the frameworks and tools used. Get started by following:
 
 -> Run the following command:
 
